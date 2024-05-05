@@ -1,2 +1,2 @@
 # ShopClues-clone
-NSDB and Web Frameworks Project
+Devops ci/cd project
